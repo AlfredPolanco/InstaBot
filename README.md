@@ -10,7 +10,7 @@ Ingenieria de software
 2. Google Chrome v85.X
 3. Google Web Driverv 85.X
 3. Python 3
-3. Se
+3. Selenium 
 
 ## Ejecucion:
 
