@@ -17,12 +17,16 @@ Ingenieria de software
 
 2. Clonar el repositorio 
 
-    - git clone https://github.com/AlfredPolanco/ConfigurationManagement
+    - git clone https://github.com/AlfredPolanco/InstaBot.git
 
 3. Acceder a la carpeta creada
 
     - cd /Carpeta/NombreCarpeta
 
-4. Abrir README.md con visual studio code
+4. Abrir .md con visual studio code
 
     - `code .`
+4. Abrir .md con visual studio code
+
+    - `code .`
+    
